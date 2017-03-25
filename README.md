@@ -1,7 +1,5 @@
 # nds51
-発表会資料
-
-
+参考リンク集
 
 ## anaconda
 [公式サイト](https://www.continuum.io/downloads)
@@ -9,6 +7,8 @@
 
 ### Jupyter Notebook
 [デモインスタンス](http://52.199.199.242:8888/?token=82bd6370fe3dcc8e72f420c6d697e38b933c261fdbf5ea51)
+3/25の間は起動しておきます。
+
 ```
 # AWSのインスタンスで売ったコマンドはこれだけ！
 yum install -y docker && /etc/init.d/docker start
