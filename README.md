@@ -7,7 +7,7 @@
 [公式サイト](https://www.continuum.io/downloads)
 [AnacondaとDockerについて](https://www.continuum.io/blog/developer-blog/anaconda-and-docker-better-together-reproducible-data-science)
 
-### 触れるJupyter Notebook
+### Jupyter Notebook
 [デモインスタンス](http://52.199.199.242:8888/?token=82bd6370fe3dcc8e72f420c6d697e38b933c261fdbf5ea51)
 ```
 # AWSのインスタンスで売ったコマンドはこれだけ！
