@@ -10,6 +10,7 @@
 ### 触れるJupyter Notebook
 [デモインスタンス](http://52.199.199.242:8888/?token=82bd6370fe3dcc8e72f420c6d697e38b933c261fdbf5ea51)
 ```
+# AWSのインスタンスで売ったコマンドはこれだけ！
 yum install -y docker && /etc/init.d/docker start
 docker pull continuumio/anaconda3
 docker run -i -t -p 8888:8888 continuumio/anaconda3 /bin/bash -c "/opt/conda/bin/conda install jupyter -y --quiet && mkdir /opt/notebooks && /opt/conda/bin/jupyter notebook --notebook-dir=/opt/notebooks --ip='*' --port=8888 --no-browser"
